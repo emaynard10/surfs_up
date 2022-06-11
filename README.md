@@ -1,5 +1,5 @@
 ## Overview of the statistical analysis
-Columbia DataBootcamp Challenge to analyze weather data in Oahu to determine the feasibility of a surf and ice cream shop using SQlite, Pandas, Python
+Columbia DataBootcamp Challenge to analyze weather data in Oahu to determine the feasibility of a surf and ice cream shop using SQlite, SQLalchemy, Pandas, Python
 
 ### The purpose of the analysis 
 This analysis looks at the weather and climate data from weather stations in Hawaii to better understand how well the idea of a ice cream and surf shop would be as a year round business. The analysis uses sqlalchemy to query the two tables in the SQLite file, the Measurements table and Stations table. The data is somewhat limited with the measurements including precipitation and temperature, but lacking cloud cover, wind speed, or any wave/surf data. 
